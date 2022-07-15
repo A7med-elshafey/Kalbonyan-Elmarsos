@@ -17,7 +17,7 @@
 ### Pig Game
 
 - [Project-code](./Projects/Pig-Game)
-- [Live Demo](https://luckyyy-game.netlify.app/)
+- [Live Demo](https://piiiiggammme.netlify.app/)
 
 ### Bankist
 
